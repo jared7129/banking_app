@@ -71,8 +71,8 @@ Install using `pip` ...
 
 ```
 pip install djangorestframework====3.12.4
-pip install Markdown==3.3.6      # Markdown support for the browsable API.
-pip install django-filter==21.1  # Filtering support
+pip install Markdown==3.3.6     
+pip install django-filter==21.1 
 ```
 
 4. Add `'rest_framework'` to your `INSTALLED_APPS` setting in `settings.py`.
